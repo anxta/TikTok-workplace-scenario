@@ -10,4 +10,4 @@ I chose the tiktok scenario because I found the project very catchy, which aims 
 - Organize tasks into milestones.
 - Create a project proposal for the team.
 
-Note: The project proposal can be seen in the files upload as [Activity_Template_Project_Proposal](https://github.com/anxta/TikTok-workplace-scenario/blob/main/Activity%20Template_%20Project%20Proposal.pdf)
+Note: The project proposal can be seen in the files upload as [Activity_Template_Project Proposal](https://github.com/anxta/TikTok-workplace-scenario/blob/main/Activity%20Template_%20Project%20Proposal.pdf)
