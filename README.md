@@ -11,3 +11,5 @@ I chose the tiktok scenario because I found the project very catchy, which aims 
 - Create a project proposal for the team.
 
 Note: The project proposal can be seen in the files upload as [Activity_Template_Project Proposal](https://github.com/anxta/TikTok-workplace-scenario/blob/main/Activity%20Template_%20Project%20Proposal.pdf)
+
+## Course 2 Get Started with Python
